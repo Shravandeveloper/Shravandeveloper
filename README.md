@@ -1,6 +1,8 @@
 ### Hi Developers 👋
 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Shravan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shravan-patil-5ba291143/)](https://www.linkedin.com/in/shravan-patil-5ba291143/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shravan-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shravan-yellow)](https://stackoverflow.com/users/19648003/shravan-patil)
 
 I'm
