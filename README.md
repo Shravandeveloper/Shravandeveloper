@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shravan-green)](https://www.Shravan)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shravan-yellow)](https://stackoverflow.com/users/19648003/shravan-patil)
 
-Myself Shravan Patil.I completed my Graduation in BSc (IT) background from Mumbai University. As of now, I am working as a Front-end developer for Kinnect Pvt Ltd. in Mumbai. Although I would like to see myself as a full-stack developer. This led to me becoming an intern at Edureka
+Myself Shravan Patil. I completed my Bachelor of Science in Information Technology from Mumbai University. Currently, I am working as a front-end developer for Kinnect Pvt Ltd. in Mumbai. Although I would like to see myself as a full-stack developer. The interest I have in full-stack development led me to become an intern at Edureka. This led to me becoming an intern at Edureka.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Shravandeveloper/count.svg)
