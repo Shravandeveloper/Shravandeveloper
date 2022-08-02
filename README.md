@@ -5,9 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shravan-green)](https://www.Shravan)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shravan-yellow)](https://stackoverflow.com/users/19648003/shravan-patil)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Myself Shravan Patil.I completed my Graduation in BSc (IT) background from Mumbai University. As of now, I am working as a Front-end developer for Kinnect Pvt Ltd. in Mumbai. Although I would like to see myself as a full-stack developer. This led to me becoming an intern at Edureka
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Shravandeveloper/count.svg)
